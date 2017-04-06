@@ -1,17 +1,18 @@
 body {
 	background-color: white;
-
+	font-family: Arial, sans-serif; 
+	font-size: 14px;
 }
 h1 {
 	color: #bf1e2e;
 	font-family: Arial, sans-serif;
-	font-size: 20px;
+	font-size: 60px;
 	text-align: center;
 }
 h3{
 	color: black;
 	font-family: Arial, sans-serif;
-	font-size: 18px;
+	font-size: 25px;
 }
 h4 {
 	font-family: Arial, sans-serif; 
@@ -31,4 +32,10 @@ img {
 }
 .important {
 	color: #bf1e2e; 
+}
+
+div.width {
+    max-width:1200px;
+    margin: auto;
+    border: 2px solid #0000FF;
 }
