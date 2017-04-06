@@ -6,6 +6,7 @@ h1 {
 	color: #bf1e2e;
 	font-family: Arial, sans-serif;
 	font-size: 20px;
+	text-align: center;
 }
 h3{
 	color: black;
@@ -21,7 +22,10 @@ p{
 	font-family: Arial, sans-serif; 
 	font-size: 14px;
 }
-img {}
+img {
+	align-self: center;
+}
+
 #slogan{
 	font-style: italic;
 }
