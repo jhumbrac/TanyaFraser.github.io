@@ -1,0 +1,30 @@
+body {
+	background-color: white;
+
+}
+h1 {
+	color: #bf1e2e;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+}
+h3{
+	color: black;
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+}
+h4 {
+	font-family: Arial, sans-serif; 
+	font-size: 13px;
+
+}
+p{
+	font-family: Arial, sans-serif; 
+	font-size: 12px;
+}
+img {}
+#slogan{
+	font-style: italic;
+}
+.important {
+	color: #bf1e2e; 
+}
