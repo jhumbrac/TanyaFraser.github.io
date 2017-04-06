@@ -23,12 +23,10 @@ p{
 	font-family: Arial, sans-serif; 
 	font-size: 14px;
 }
-img {
-	align-self: center;
-}
 
 #slogan{
 	font-style: italic;
+	text-align: center;
 }
 .important {
 	color: #bf1e2e; 
@@ -37,5 +35,6 @@ img {
 div.width {
     max-width:1200px;
     margin: auto;
-    border: 2px solid #0000FF;
+    border: 2px solid #A9A9A9;
+    margin: 100px 150px 100px 80px
 }
